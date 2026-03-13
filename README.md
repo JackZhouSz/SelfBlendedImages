@@ -12,6 +12,9 @@ For commercial use:
 - A license agreement is required. 
 - See the [license](https://github.com/mapooon/SelfBlendedImages/blob/master/LICENSE) for more details and contact the author [Kaede Shiohara](mailto:shiohara@cvm.t.u-tokyo.ac.jp).
 
+# News
+3.13.2026: We have released a new paper on reference-based deepfake detection accepted to CVPR2026 Findings🎉🎉🎉  
+[**ExposeAnyone: Personalized Audio-to-Expression Diffusion Models are Robust Zero-Shot Face Forgery Detectors**](https://mapooon.github.io/ExposeAnyonePage/)
 
 # Changelog
 3.2.2023: Fixed bug in preprocessing code. We recommend that those who have any problems in reproducing the experimental results try again from the preprocessing.
